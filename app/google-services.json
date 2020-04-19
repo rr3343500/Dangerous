@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043883033578",
+    "firebase_url": "https://dangerous-66ee6.firebaseio.com",
+    "project_id": "dangerous-66ee6",
+    "storage_bucket": "dangerous-66ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043883033578:android:39f135ea4025d3f4c66893",
+        "android_client_info": {
+          "package_name": "com.rrdreamtech.dangerous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043883033578-4mmc2om028rp4ida16gsc6ptb5og5am4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rrdreamtech.dangerous",
+            "certificate_hash": "5d642a101c9d8da2657e660396322dc6f9effd41"
+          }
+        },
+        {
+          "client_id": "1043883033578-8cq5r9ijk8npau5i50i1gk6oat81et4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcfrzkPZzAIaOskRzXu5FA1_VFYqDbHwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043883033578-8cq5r9ijk8npau5i50i1gk6oat81et4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
